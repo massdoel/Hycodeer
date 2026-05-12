@@ -24,8 +24,8 @@
     }
   ],
   "env": {
-    "VITE_GITHUB_CLIENT_ID": "@github_client_id",
-    "GITHUB_CLIENT_SECRET":  "@github_client_secret",
+    "VITE_GITHUB_CLIENT_ID": "Iv23liiPwljQd6MX4m84",
+    "GITHUB_CLIENT_SECRET":  "6b67d47f0f89e61022d29116fcaa87a4e70127a5",
     "VITE_APP_URL":          "@app_url"
   }
 }
